@@ -8,9 +8,6 @@
 - 🔭 I’m currently working on [Prodigy Math Game Hacking](https://github.com/rxzyx/prodigy-hack)
 
 - 🌱 I’m currently learning **Exploiting for education purposes**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
