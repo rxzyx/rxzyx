@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Prodigy Hacking](https://github.com/rxzyx/prodigy-hack)
 
-- 🌱 I’m currently learning **Exploiting for education purposes**
+- 🌱 I’m currently learning **Exploiting for educational purposes**
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
