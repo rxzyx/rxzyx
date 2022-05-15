@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rxzyx" alt="rxzyx" /></a> </p>
 
-- 🔭 I’m currently working on [Wordle Hacking](https://github.com/rxzyx/wordle-hack)
+- 🔭 I’m currently working on [Prodigy Hacking](https://github.com/rxzyx/prodigy-hack)
 
 - 🌱 I’m currently learning **Exploiting for education purposes**
 </p>
