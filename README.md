@@ -1,6 +1,9 @@
 <h1 align="center">rxzyx (rzx)</h1>
 <h3 align="center">Professional coder in a vast amount of programming languages.</h3>
 
+## Discord Support
+[![My Discord](https://discordapp.com/api/guilds/985270675579219978/widget.png?style=banner2)](https://discord.gg/wqz4jW6a)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rxzyx&label=Profile%20views&color=0e75b6&style=flat" alt="rxzyx" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rxzyx" alt="rxzyx" /></a> </p>
