@@ -2,7 +2,7 @@
 <h3 align="center">Professional coder in a vast amount of programming languages.</h3>
 
 ## Discord Support
-[![My Discord](https://discordapp.com/api/guilds/985270675579219978/widget.png?style=banner2)](https://discord.gg/wqz4jW6a)
+[![My Discord](https://discordapp.com/api/guilds/985270675579219978/widget.png?style=banner2)](https://discord.gg/abqMVbDanB)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rxzyx&label=Profile%20views&color=0e75b6&style=flat" alt="rxzyx" /> </p>
 
