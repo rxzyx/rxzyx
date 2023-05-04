@@ -21,3 +21,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rxzyx&show_icons=true&locale=en" alt="rxzyx" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rxzyx&" alt="rxzyx" /></p>
+
+
+<h3>Blooket hacks aren't available because they were falsely taken down by an individual!</h3>
+<h3>More hacks to come soon!</h3>
