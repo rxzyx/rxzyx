@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rxzyx" alt="rxzyx" /></a> </p>
 
-- 🔭 I’m currently working on [AI](https://github.com/rxzyx/prodigy-hack)
+- 🔭 I’m currently working on [AI and the field of Physics](https://github.com/rxzyx/prodigy-hack)
 
-- 🌱 I’m currently learning **Exploiting and AI for educational purposes**
+- 🌱 I’m currently learning **Exploiting, AI, and many more for educational purposes**
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
