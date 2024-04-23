@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rxzyx" alt="rxzyx" /></a> </p>
 
-- 🔭 I’m currently working on [AI and the field of Physics](https://github.com/rxzyx/prodigy-hack)
+- 🔭 I’m currently working on [AI (todo) and the field of Physics](https://github.com/rxzyx/artillery-strike)
 
 - 🌱 I’m currently learning **Exploiting, AI, and many more for educational purposes**
 </p>
